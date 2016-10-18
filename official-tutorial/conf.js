@@ -5,11 +5,10 @@ exports.config = {
   specs: ['spec1.js'],
   capabilities: {
     browserName: 'chrome'
-  },
+  }
   // multiCapabilities: [{
   //   browserName: 'firefox'
   // }, {
   //   browserName: 'chrome'
   // }],
-  resultJsonOutputFile: "./result.json"
 };
