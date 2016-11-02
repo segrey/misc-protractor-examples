@@ -30,5 +30,6 @@ describe('Protractor Demo App1', function() {
   });
 
   it('empty spec1', function () {
+    console.log('empty spec1!');
   });
 });
