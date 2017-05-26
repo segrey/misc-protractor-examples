@@ -7,9 +7,12 @@ exports.config = {
     all: ['spec*.js'],
     spec_1: ['spec1.js']
   },
-  multiCapabilities: [{
-    browserName: 'firefox'
-  }, {
+  // multiCapabilities: [{
+  //   browserName: 'firefox'
+  // }, {
+  //   browserName: 'chrome'
+  // }],
+  capability: {
     browserName: 'chrome'
-  }]
+  }
 };

@@ -2,9 +2,9 @@
   "name": "misc-protractor-examples",
   "version": "0.0.1",
   "devDependencies": {
-    "protractor": "^5.0.0",
-    "protractor-cucumber-framework": "^0.6.0",
-    "mocha": "^3.2.0",
+    "protractor": "^5.1.2",
+    "protractor-cucumber-framework": "^3.1.0",
+    "mocha": "^3.4.2",
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0"
   }
